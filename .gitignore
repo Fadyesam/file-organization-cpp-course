@@ -1,0 +1,40 @@
+# C++ build artifacts
+*.exe
+*.out
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Common build folders
+build/
+bin/
+Debug/
+Release/
+
+# Editor and operating-system files
+.vscode/ipch/
+.vs/
+.idea/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Files generated while running examples
+sec_1/file.txt
+sec_2/info.txt
+sec_2/out.txt
+sec_2/fruit.txt
+sec_3/data/overwrite.txt
+sec_3/data/sample.txt
+sec_4/persons.txt
+sec_4/results.txt
+sec_5/example.txt
+sec_5/file.txt
+sec_5/f1.txt
+sec_5/f2.txt
+sec_5/f3.txt
+sec_5/students.txt
+sec_6/data/temp.txt
+sec_6/data/t.txt
